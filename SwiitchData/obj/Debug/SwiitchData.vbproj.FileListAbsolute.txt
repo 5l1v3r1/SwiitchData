@@ -1,0 +1,13 @@
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\bin\Debug\SwiitchData.exe.config
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\bin\Debug\SwiitchData.exe
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\bin\Debug\SwiitchData.pdb
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\bin\Debug\SwiitchData.xml
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.Resources.resources
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.vbproj.GenerateResource.cache
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.vbproj.CoreCompileInputs.cache
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.exe
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.xml
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.pdb
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.Form1.resources
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.vbprojResolveAssemblyReference.cache
+C:\Users\devflix\source\repos\SwiitchData\SwiitchData\obj\Debug\SwiitchData.Form2.resources
